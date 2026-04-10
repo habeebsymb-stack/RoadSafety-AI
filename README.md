@@ -277,31 +277,19 @@ Example response:
 
 ## 🖼️ Screenshots
 
-Add implementation screenshots in a folder like:
+The implementation screenshots are stored in:
 
 ```text
 public/screenshots/
 ```
 
-Recommended screenshots:
-
-| Screenshot | Description |
-|---|---|
-| `home.png` | Full landing/dashboard page |
-| `route-analysis.png` | Route after entering origin and destination |
-| `hazard-markers.png` | Map showing hazards and traffic incidents |
-| `risk-panel.png` | Risk score, factors, alerts, and precautions |
-| `safety-advisor.png` | Suggested safety questions and AI explanation |
-
-Markdown placeholders:
-
-```md
-![Home](public/screenshots/home.png)
-![Route Analysis](public/screenshots/route-analysis.png)
-![Hazard Markers](public/screenshots/hazard-markers.png)
-![Risk Panel](public/screenshots/risk-panel.png)
-![Safety Advisor](public/screenshots/safety-advisor.png)
-```
+| Screen | Preview | Explanation |
+|---|---|---|
+| Home / Dashboard | ![Home](public/screenshots/home.png) | Landing page and main Road Safety AI dashboard entry point |
+| Route Analysis | ![Route Analysis](public/screenshots/route-analysis.png) | Route planning flow with origin/destination analysis and map output |
+| Hazard Markers | ![Hazard Markers](public/screenshots/hazard-markers.png) | Map layer showing detected road hazards and traffic incident points |
+| Risk Panel | ![Risk Panel](public/screenshots/risk-panel.png) | Risk factors, alerts, traffic context, and safety recommendations |
+| Safety Advisor | ![Safety Advisor](public/screenshots/safety-advisor.png) | AI-assisted safety questions and route-specific driving guidance |
 
 ---
 
